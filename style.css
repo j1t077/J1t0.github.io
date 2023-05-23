@@ -1,3 +1,9 @@
 body {
     background: #93c572;
+    width: 100%;
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
 }
