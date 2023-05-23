@@ -7,3 +7,7 @@ body {
 h1 {
     font-size: 50px;    
 }
+
+header {
+    background: url(En_Obra.png) no-repeat center center;
+}
