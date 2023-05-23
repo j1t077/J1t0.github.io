@@ -14,7 +14,7 @@ body {
 }
 
 .imagen {
-  background-image: url(fondo_web.jpg) no-repeat center center;
+  background: url(fondo_web.jpg) no-repeat center center;
 }
 
 h1 {
