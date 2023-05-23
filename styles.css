@@ -1,0 +1,10 @@
+body {
+    background: #000000;
+    width: 100%;
+    display: flex;
+}
+
+header .cabecera {
+ background: url(./imagenes/enObras.png) no-repeat center center;
+
+}
