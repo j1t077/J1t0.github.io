@@ -1,4 +1,17 @@
 # J1t0.github.io
 
-# EN OBRAS.
-![enObras](https://github.com/j1t077/J1t0.github.io/assets/96486397/467d8cb7-b278-44aa-8f61-5aec7a797883)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J1t0</title>
+</head>
+<body>
+    <header>
+        <div class="cabecera"></div>
+    </header>
+    
+</body>
+</html>
