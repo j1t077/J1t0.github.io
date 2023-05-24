@@ -22,3 +22,8 @@ p {
   font-size: 24px;
   color: #666;
 }
+
+.imagen {
+  width: 500px;
+  height: 500px;
+}
