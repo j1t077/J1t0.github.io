@@ -24,7 +24,7 @@ p {
 }
 
 .imagen {
-  margin-top: 10px;
+  margin: 10px auto;
   width: 500px;
   height: 500px;
 }
