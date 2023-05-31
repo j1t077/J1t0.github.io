@@ -34,3 +34,7 @@ p {
 .presentacton {
   width: 70%;
 }
+
+a {
+  text-decoration: none;
+}
