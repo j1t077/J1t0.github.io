@@ -16,7 +16,7 @@ body {
 h1 {
   font-size: 48px;
   color: #333;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 p {
@@ -41,8 +41,8 @@ p {
 }
 
 .presentacton {
-  width: 90%;
-  margin-left:0.1px;
+  width: 100%;
+  margin-left: 5px;
   flex-deirection: column;
 }
 
