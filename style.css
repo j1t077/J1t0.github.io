@@ -33,6 +33,8 @@ p {
 
 .presentacton {
   width: 70%;
+  align-items: center;
+  flex-deirection: column;
 }
 
 a {
