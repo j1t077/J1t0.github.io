@@ -16,7 +16,15 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.menu {
+  width: 20%;
 }
+
+.presentacion {
+  width: 80%;
+}
+
 
 h1 {
   font-size: 48px;
@@ -27,8 +35,4 @@ h1 {
 p {
   font-size: 24px;
   color: #666;
-}
-
-iframe{
-  margint-left: 35%;
 }
