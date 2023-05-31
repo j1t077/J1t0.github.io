@@ -48,3 +48,7 @@ a {
   text-align: left;
   color: #1b1b1b;
 }
+
+a:hover {
+    color: #00FFFF;
+}
