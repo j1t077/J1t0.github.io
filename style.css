@@ -41,8 +41,8 @@ p {
 }
 
 .presentacton {
-  width: 80%;
-  align-items: right;
+  width: 90%;
+  margin-left:0.1px;
   flex-deirection: column;
 }
 
