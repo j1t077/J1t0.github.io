@@ -1,0 +1,132 @@
+@import url("galeria.css");
+
+body {
+  width: 100%;
+  background-color: #1c1c1c;
+  margin: 0px;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #111111;
+  color: #ffffff;
+}
+
+header * {
+  margin-top: 0px;
+}
+
+.logo img {
+  width: 300px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  letter-spacing: 1.5px;
+  font-family: "Saira", Sans-serif;
+}
+
+nav a:hover {
+  color: #ed582e;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  background-color: #1c1c1c;
+  color: #ed582e;
+}
+
+.imagen-banner {
+  text-align: center;
+  background-repeat: no-repeat;
+  filter: blur(2px);
+  background-color: rgb(249, 249, 249);
+  margin-top: 3px;
+}
+
+.imagen-banner img {
+  width: 70%;
+  border-radius: 5px;
+}
+
+.texto-banner {
+  position: absolute;
+  text-align: center;
+}
+
+.texto-banner h2 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #000000;
+  text-shadow: 2px 2px #ed582e;
+}
+
+.separate {
+  width: 40%;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  width: 90%;
+}
+.txtImage {
+  max-width: 50%;
+  /* border: 10px solid yellow; */
+}
+.txtImage img {
+  width: 100%;
+}
+
+.txtTributo {
+  display: column;
+  justify-content: left;
+  width: 55%;
+  font-size: 21px;
+}
+
+h1,
+h3,
+p {
+  color: #fff;
+  align-items: center;
+  margin-left: 25px;
+  margin-top: 0;
+}
+
+.foot {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #111111;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 75px;
+}
